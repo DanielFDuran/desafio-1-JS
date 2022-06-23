@@ -12,7 +12,7 @@ function calculo () {
         comision = ventaVendedor *0.05;
     }
     else {
-        comision = ventaVendedor *0.15;
+        comision = ventaVendedor *0.02;
     }
     alert (`${nombre} la comision es : ${comision}`);
 }
